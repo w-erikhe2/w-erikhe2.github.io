@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Personal Website</title>
+    <title>My Personal Website</werikhe-2>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -25,11 +25,11 @@
 </head>
 <body>
     <div class="card">
-        <h1>Hello, I'm YOUR NAME</h1>
+        <h1>Hello, I'm W3rikhe mumali</h1>
         <p>Welcome to my personal website 👋</p>
         <p>I am learning coding and building cool projects 🚀</p>
         <p>
-            <a href="https://github.com/YOURUSERNAME">Visit my GitHub</a>
+            <a href="https://github.com/w-erikhe2">Visit my GitHub</a>
         </p>
     </div>
 </body>
